@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I'm currently working on **full-stack applications** using React, TypeScript, Node.js, and PostgreSQL/Supabase<br>🌱 I'm currently learning advanced system design and scaling patterns for full-stack apps<br>👯 I'm looking to collaborate on open-source full-stack or data engineering projects<br>🤝 I'm looking for help with breaking into full-stack SWE roles in NYC/SF<br>💬 Ask me about React, TypeScript, Node.js, Python, or PostgreSQL/Supabase<br>⚡ Fun fact: I built **Bulldog Mapping**, a full-stack app serving a large user base, and **SchemaGP**, a full F1 data pipeline
+🔭 I'm currently working on **full-stack applications** using React, TypeScript, Node.js, and PostgreSQL/Supabase<br>🌱 I'm currently learning advanced system design and scaling patterns for full-stack apps<br>👯 I'm looking to collaborate on open-source full-stack or data engineering projects<br>🤝 I'm looking for help with breaking into full-stack SWE roles in California<br>💬 Ask me about React, TypeScript, Node.js, Python, or PostgreSQL/Supabase<br>⚡ Fun fact: I built **Bulldog Mapping**, a full-stack app serving a large user base, and **SchemaGP**, a full F1 data pipeline
 
 
 ## 🌐 Socials:
